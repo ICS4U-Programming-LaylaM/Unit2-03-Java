@@ -1,0 +1,2 @@
+javac RecBinarySearch.java
+java RecBinarySearch
